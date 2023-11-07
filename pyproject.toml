@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Merkurial_ImageSifter"
-version = "0.0.0"
+version = "0.0.1"
 authors = [
     {name="Brandon Marcure", email="brandon@merkurialphoenix.com"}
 ]
@@ -26,4 +26,4 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/ArisenPhoenix/ImageSifter"
-"Bug Tracekr" = "https://github.com/ArisenPhoenix/ImageSifter/issues"
+"Bug Tracker" = "https://github.com/ArisenPhoenix/ImageSifter/issues"
